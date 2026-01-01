@@ -41,5 +41,5 @@ Your ideas and contributions shape the future of pittaya.
 
 ---
 
-**Website:** https://pittaya-ui.vercel.app/  
+**Website:** https://ui.pittaya.org/  
 **License:** MIT
